@@ -1,4 +1,7 @@
 morning_call
 ============
 
-its morning call.
+電話番号を知られずに女性でも安心して利用できるモーニングコールのサービスを提供する。
+
+ディスカッションはIssueで。  
+https://github.com/shoyan/morning_call/issues/
