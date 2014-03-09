@@ -5,3 +5,6 @@ morning_call
 
 ディスカッションはIssueで。  
 https://github.com/shoyan/morning_call/issues/
+
+## Contact
+Please contact [@shoyan](https://twitter.com/shoyan__) if you are interested.
